@@ -1,0 +1,6 @@
+git remote add origin https://github.com/solehudin5699/LabEksper.git
+whatsapp-clone-6c71e
+npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
